@@ -40,6 +40,14 @@ span {
 	color: #a3865b;
 }
 
+ hr {
+ 	background-color: #a3865b;
+    border: 0 none;
+    clear: both;
+    height: 1px;
+ }
+ 
+
 .articleimg {
 	width: 50%;
 	float: left;

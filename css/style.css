@@ -42,9 +42,10 @@ span {
 
  hr {
  	background-color: #a3865b;
-    border: 0 none;
-    clear: both;
-    height: 1px;
+    	border: 0 none;
+    	clear: both;
+    	height: 1px;
+	color: #a3865b;    
  }
  
 
